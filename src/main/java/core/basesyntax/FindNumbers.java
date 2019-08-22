@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class FindNumbers {
+class FindNumbers {
 
     /**
      * <p>Реализуйте метод getAllNumbers(String text) который принимает строку, cодержащую буквы,
