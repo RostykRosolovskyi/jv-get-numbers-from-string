@@ -18,7 +18,7 @@ public class FindNumbersTest {
     @Before
     public void initialization() {
         listOfTexts.add("data 48 call 9 read13 blank0a");
-        listOfTexts.add("9t12oday 1 67 4is90 sunn4y 0!");
+        listOfTexts.add("9t12okay 1 67 4is90 sun4y 0!");
         listOfTexts.add("-14I 4 a22m 6sl54e3epy 12 ui8");
         listOfTexts.add("W82 ath23 1kill52 her3e");
     }
